@@ -1,15 +1,20 @@
-* {
+body {
   margin: 0px;
+}
+
+div {
+  box-sizing: border-box;
 }
 
 .container {
   height: 100vh;
-  /* margin: 0px; */
+  display: flex;
   border: 16px solid lightgray;
 }
 
 .box-1 {
   height: 100%;
+  width: 100%;
   border: 16px solid black;
 }
 .box-2 {
