@@ -1,1 +1,78 @@
-/* Start coding here */
+.heading-line {
+  color: rgb(255, 255, 255);
+  background-color: cornflowerblue;
+  width: 100vw;
+  height: 15vh;
+  padding: 10px 0px 0px 10px;
+  font-size: 30px;
+}
+
+.top-ten-cafe-cm {
+  margin: 100px;
+  border: 10px black solid;
+  padding: 0px 15px 5px 15px;
+  background-color: rgb(177, 219, 219);
+}
+
+.keyword-top-10-cafe {
+  text-align: center;
+  font-size: 70px;
+  color: blue;
+  padding: 10px 0px 5px 0px;
+  margin: 0px;
+}
+
+.pic-10-cafe {
+  display: block;
+  padding-left: 20px;
+  border: center;
+  margin: auto;
+  padding: 0px 0px 20px 0px;
+  height: 1000px;
+  width: 1000px;
+}
+
+.topic-cafe-cm {
+  font-size: 30px;
+  color: darkblue;
+}
+
+.top-10-cafe-review {
+  font-style: oblique;
+  font-size: 25px;
+  color: rgb(4, 4, 41);
+}
+
+.tenlocation-cm {
+  margin: 100px;
+  border: 10px black solid;
+  padding: 0px 15px 5px 15px;
+  background-color: rgb(177, 219, 219);
+}
+
+.keyword-top-10-loca {
+  text-align: center;
+  font-size: 70px;
+  color: blue;
+  padding: 10px 0px 5px 0px;
+}
+
+.pic-10-loca {
+  display: block;
+  padding-left: 20px;
+  margin: auto;
+  padding: 0px 0px 20px 0px;
+  height: 1000px;
+  width: 1000px;
+}
+
+.topic-loca-cm {
+  font-size: 30px;
+  color: darkblue;
+}
+
+.top-10-loca-review {
+  font-style: oblique;
+  font-size: 25px;
+  color: rgb(4, 4, 41);
+}
