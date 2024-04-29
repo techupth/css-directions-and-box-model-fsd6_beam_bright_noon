@@ -1,1 +1,26 @@
-/* Start coding here */
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.techup{
+    display: flex;
+    height: 560px;
+    width: 560px;
+    font-size: 24px;
+    color: black;
+    padding: 10px;
+    margin: 16px;
+    background-color: khaki;
+    padding-left: 200px;
+    border: 24px crimson solid;
+}
+.box1{
+    height: 636px;
+    width: 636px;
+    background-size: contain;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(31, 31, 28);
+    border: 16px lightgrey solid;
+}
+

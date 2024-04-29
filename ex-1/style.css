@@ -1,1 +1,35 @@
-/* Start coding here */
+* {
+    margin: 0;
+    /* padding: 0; */
+    
+    
+}
+.header{
+    background-color: rgb(139, 158, 181);
+    height: 70px;
+    display: flex;
+    color: rgb;
+    padding: 25px 0px 25px 50px;
+    color: rgb(9, 50, 112);
+    align-items: center;
+}
+.container{   
+    background-color: rgb(209, 220, 220);
+    border: 3px rgb(9, 50, 112) solid;
+    margin: 50px;
+    height: 350px;
+    width: 500px;
+}
+.detail{
+    text-align: end;
+    margin-left: 10px;
+}
+p, h3, img {
+    margin-top: 25px;
+    margin-left: 20px; 
+    color: rgb(9, 50, 112);  
+}
+.head-text{
+    padding: 50px;
+    margin: 50px;
+}
