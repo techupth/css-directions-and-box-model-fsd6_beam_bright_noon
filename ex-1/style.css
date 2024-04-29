@@ -1,1 +1,39 @@
-/* Start coding here */
+* {
+  /* display: inline-block; */
+  margin: 0px;
+  /* padding: 25px; */
+}
+
+.header {
+  display: flex;
+  font-size: 2rem;
+  padding: 25px 0px 25px 50px;
+  border: 2px solid;
+  border-color: gray;
+  background-color: lightgray;
+  color: dark;
+}
+
+.container {
+  height: 100vh;
+  padding: 30px;
+}
+
+.boxContainer {
+  width: 40vw;
+  height: 40vh;
+  margin: 20px;
+  border: 1px solid gray;
+  background-color: lightgray;
+  padding: 25px;
+  border: 2px solid;
+  border-color: darkblue;
+}
+
+.title {
+  background-color: gr;
+}
+
+.text {
+  font-size: 1.5rem;
+}
