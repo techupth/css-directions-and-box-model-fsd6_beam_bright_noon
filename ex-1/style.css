@@ -26,7 +26,7 @@
   display: block;
   padding-left: 20px;
   border: center;
-  margin: 0px;
+  margin: auto;
   padding: 0px 0px 20px 0px;
   height: 1000px;
   width: 1000px;
@@ -60,7 +60,7 @@
 .pic-10-loca {
   display: block;
   padding-left: 20px;
-  margin: 0px 0px 0px 200px;
+  margin: auto;
   padding: 0px 0px 20px 0px;
   height: 1000px;
   width: 1000px;
